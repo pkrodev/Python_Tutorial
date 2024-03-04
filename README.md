@@ -1,2 +1,2 @@
-# Python_Tutorial
+# Python Tutorial
 Simply a Python language guide
